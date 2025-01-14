@@ -29,3 +29,21 @@
   max-width: 250px;
   display: inline-block;
 }
+.list-title{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20;
+  text-align: center;
+  border: 2px solid;
+  background-color: aqua;
+  padding: 10px;
+  border-radius: 10px;
+}
+.list-body{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+.list-body li{
+  list-style: none;
+  margin: 10px;
+  text-align: center;
+}
